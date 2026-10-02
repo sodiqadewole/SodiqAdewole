@@ -1,4 +1,4 @@
-# Sodiq Adewole
+# Sodiq Adewole, PhD
 
 <h3 align="center">
   AI/ML Engineer | Enterprise AI Agent Developer | RAG | LLMs / SLMs | Deep Learning | Reinforcement Learning
