@@ -4,11 +4,11 @@
   Applied Scientist | AI/ML Engineer | AI Agent Developer | RAG | LLMs / SLMs | Deep Learning | Reinforcement Learning
 </h3>
 
----
+<!-- --- -->
 
 ## 👤 About Me
 
-I'm an **Applied Scientist, AI/ML Engineer, and Adjunct Professor of Data Science** focused on research and building scalable, enterprise-ready AI/ML applications. My work spans **agentic AI, information retrieval, retrieval-augmented generation, deep learning, generative AI, large and small language models, and natural language processing**. I build end-to-end systems—from problem framing and data collection through experimentation, API development, and deployment. I hold a PhD in Systems and Information Engineering, where my research focused on multimodal video analysis using deep learning.
+I'm an **Applied Scientist, AI/ML Engineer, and Adjunct Professor of Data Science** focused on research and building scalable, enterprise-ready AI/ML applications. My work spans **agentic AI, information retrieval, retrieval-augmented generation, deep learning, generative AI, large and small language models, and natural language processing**. I build end-to-end systems—from problem framing, data collection through experimentation and model deployment. I hold a PhD in Systems and Information Engineering, where my research focused on multimodal video analysis using deep representation learning.
 
 <!-- ---
 ## 🎯 Key Expertise
