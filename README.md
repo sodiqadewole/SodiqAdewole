@@ -68,7 +68,7 @@ I'm an **Applied Scientist, AI/ML Engineer, and Adjunct Professor of Data Scienc
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) -->
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
  <!-- <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge" alt="Generative AI"/>
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs"/>
   <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge" alt="RAG"/>
@@ -83,12 +83,12 @@ I'm an **Applied Scientist, AI/ML Engineer, and Adjunct Professor of Data Scienc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/> -->
-<!-- </p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+</p>
 
 </div>
 
-<br/> --> -->
+<br/> -->
 
 <!--
 **sodiqadewole/SodiqAdewole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
