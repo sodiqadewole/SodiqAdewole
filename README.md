@@ -37,17 +37,17 @@ I'm an **Applied Scientist, AI/ML Engineer, and Adjunct Professor of Data Scienc
 | 🚀 Project | 📝 Description | 🛠️ Technologies | 💻 GitHub | 🌐 Live Demo | 🎥 Video Demo |
 |---|---|---|---|---|---|
 
----
+<!-- --- -->
 
-## 📫 How to Reach Me
+<!-- ## 📫 How to Reach Me -->
 
 <!-- Add your preferred email address, LinkedIn profile, or portfolio link here. -->
 
----
+<!-- --- -->
 
-## 🛠️ Languages, Frameworks & Tools
+<!-- ## 🛠️ Languages, Frameworks & Tools -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
 <!-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
