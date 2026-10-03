@@ -10,7 +10,7 @@
 
 I'm an **AI/ML Engineer, Applied Scientist, and Adjunct Professor of Data Science** focused on research and building scalable, enterprise-ready AI/ML applications. My work spans **agentic AI, information retrieval, retrieval-augmented generation, deep learning, generative AI, large and small language models, and natural language processing**. I build end-to-end systems—from problem framing and data collection through experimentation, API development, and deployment. I hold a PhD in Systems and Information Engineering, where my research focused on multimodal video analysis using deep learning.
 
----
+<!-- ---
 ## 🎯 Key Expertise
 
 | Area | What I Build |
@@ -88,7 +88,7 @@ I'm an **AI/ML Engineer, Applied Scientist, and Adjunct Professor of Data Scienc
 
 </div>
 
-<br/>
+<br/> -->
 
 <!--
 **sodiqadewole/SodiqAdewole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
