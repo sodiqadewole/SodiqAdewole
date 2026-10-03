@@ -58,8 +58,12 @@ I'm an **AI/ML Engineer, Applied Scientist, and Adjunct Professor of Data Scienc
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-6B46C1?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/-AutoGen-0078D4?style=for-the-badge)
+![TRL](https://img.shields.io/badge/-TRL-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch Lightning](https://img.shields.io/badge/-PyTorch%20Lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
