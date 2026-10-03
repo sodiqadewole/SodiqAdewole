@@ -32,10 +32,10 @@ I'm an **Applied Scientist, AI/ML Engineer, and Adjunct Professor of Data Scienc
 
 <!-- ## 🌟 Featured Projects -->
 
-<!-- Add selected projects here with a short description, key impact, and repository or demo link. -->
+<!-- Add selected projects here with a short description, key impact, and repository or demo link.
 
 <!-- | 🚀 Project | 📝 Description | 🛠️ Technologies | 💻 GitHub | 🌐 Live Demo | 🎥 Video Demo |
-<!-- |---|---|---|---|---|---| --> -->
+<!-- |---|---|---|---|---|---| -->
 
 <!-- --- -->
 
